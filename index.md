@@ -5,5 +5,5 @@ author-url:
 title: [commonfateplanets]
 tags: [P5.js,[MOTION], [], Law of Common Fate]
 permalink: /[CATEGORY]/[my-title]/
-summary: [circles moving ]
+summary: [some planets moving around. two belong together ]
 ---  
